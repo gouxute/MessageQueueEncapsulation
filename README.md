@@ -1,4 +1,4 @@
-# KyroExpansion
+# Message-Queue Encapsulation
 An expansion and encapsulation of RocketMQ framework <br>
 The code's external package dependency is maintained by Maven , please refer to pom.xml<br>
 ##RocketMQ
